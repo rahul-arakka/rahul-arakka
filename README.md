@@ -1,436 +1,107 @@
-<div align="center">
+# ⚡ Rahul Arakka | Senior AEM Engineer & Enterprise Architect
 
-# 👋 Hi, I'm Rahul Arakka
-
-### Senior AEM Engineer • Full-Stack Developer • Enterprise Solution Architect
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Adobe+Experience+Manager+(AEM)+Specialist;Java+%7C+React+%7C+MERN+Stack+Developer;Building+Scalable+Enterprise+Solutions;Passionate+about+Innovation+%26+Business+Growth;Open+for+Freelance+Projects+%26+Collaborations" alt="Typing SVG" />
-
-<br/>
-<br/>
-
-<a href="https://github.com/rahul-arakka">
-  <img src="https://img.shields.io/github/followers/rahul-arakka?label=Followers&style=for-the-badge&color=0A66C2&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/rahul-arakka">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:rahularakka81@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="#">
-  <img src="https://komarev.com/ghpvc/?username=rahul-arakka&style=for-the-badge&color=brightgreen"/>
-</a>
-
-</div>
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=EB1000&center=true&vCenter=true&width=500&lines=Adobe+Certified+Professional;Senior+AEM+Engineer;Full-Stack+Solution+Architect;Enterprise+CMS+Specialist" alt="Typing SVG" />
+</p>
 
 # 💫 About Me
+[cite_start]Adobe Certified Senior AEM Engineer [cite: 4] [cite_start]with over 4 years of experience architecting scalable enterprise CMS solutions on **AEMaaCS** and **AEM 6.5+**[cite: 4]. [cite_start]I specialize in distributed systems, microservices integration, and high-performance backend development[cite: 5, 11].
 
-```yaml
-Name: Rahul Arakka
-Role: Senior AEM Engineer & Full-Stack Developer
-Experience: 4+ Years
-
-Specialization:
-  - Adobe Experience Manager (AEM)
-  - Java & Spring Boot
-  - React & MERN Stack
-  - Enterprise CMS Solutions
-  - Microservices & APIs
-
-Current Focus:
-  - Scalable Enterprise Platforms
-  - Headless CMS Architecture
-  - Cloud-Native Solutions
-  - Full-Stack Product Development
-
-Mission:
-  "Building innovative digital solutions that help businesses scale faster."
-```
+* [cite_start]🚀 **Impact-Driven**: Reduced automation overhead by **80%** and improved localization efficiency by **25%** across 14+ languages[cite: 7, 47].
+* [cite_start]🛠️ **Architectural Expertise**: Proven track record in OSGi-based services, Sling Model architecture, and secure REST/GraphQL API design[cite: 5, 11, 19].
+* [cite_start]🌐 **Full-Stack Proficiency**: Expert in the **MERN stack**, React, and Node.js for building modern, omni-channel experiences[cite: 6, 12, 36].
 
 ---
 
-# ⚡ What I Bring To The Table
+# 💻 Tech Stack
 
-✔️ Enterprise-grade AEM implementations  
-✔️ End-to-end Full Stack Development  
-✔️ High-performance scalable architectures  
-✔️ Cloud & DevOps integration  
-✔️ REST & GraphQL API engineering  
-✔️ Real-time content synchronization systems  
-✔️ Business-focused technical solutions  
-✔️ Agile leadership & ownership mindset  
+### 🏗️ CMS & Backend Core
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) 
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) 
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) 
 
----
+### 🎨 Frontend & Modern Web
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
+![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-# 🧠 Core Expertise
+### ⚙️ Server-Side & Middleware
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-<div align="center">
+### ☁️ Cloud & Databases
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 
-| Enterprise CMS | Backend Engineering | Frontend Development | DevOps & Cloud |
-|---|---|---|---|
-| AEMaaCS | Java | React.js | Docker |
-| AEM Sites | Spring Boot | JavaScript ES6+ | Kubernetes |
-| AEM Assets | REST APIs | TypeScript | Jenkins |
-| Dispatcher | GraphQL | Node.js | AWS |
-| MSM | Kafka | MERN Stack | Cloud Manager |
-
-</div>
-
----
-
-# 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-## 👨‍💻 Languages & Frameworks
-
-<img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,mongodb,express,html,css,spring" />
-
-<br/>
-<br/>
-
-## ☁️ Cloud • DevOps • CMS
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github,vscode" />
-
-<br/>
-<br/>
-
-<img src="https://img.shields.io/badge/Adobe-AEM-red?style=for-the-badge&logo=adobe" />
-<img src="https://img.shields.io/badge/Apache-Kafka-black?style=for-the-badge&logo=apachekafka" />
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk" />
-<img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace" />
-<img src="https://img.shields.io/badge/Jenkins-CI/CD-red?style=for-the-badge&logo=jenkins" />
-<img src="https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker" />
-
-</div>
+### 🛠️ DevOps & Tools
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-# 📊 Engineering Highlights
+# 📈 Professional Timeline
 
-<div align="center">
-
-| 🚀 Achievement | 📈 Impact |
-|---|---|
-| Automation Workflow Optimization | **80% Reduction** in manual overhead |
-| Dispatcher & Caching Optimization | **20% Faster** page performance |
-| Multi-language Content Delivery | Supported **14+ Locales** |
-| Real-time Synchronization | Improved delivery efficiency by **25%** |
-| Enterprise Asset Operations | Accelerated workflows by **60%** |
-
-</div>
-
----
-
-# 🏗️ Featured Enterprise Projects
-
-<div align="center">
-
-## 📌 Enterprise DAM Transformation
-### *AEMaaCS • Asset Automation • Workflow Optimization*
-
-</div>
-
-```diff
-+ Built asynchronous content operation pipelines
-+ Implemented Sling Job Manager with retry handling
-+ Developed Excel-driven asset automation
-+ Reduced operational overhead by 80%
-```
+* **Senior Software Engineer | [cite_start]LTIMindtree** (07/2025 – Present) [cite: 15, 16, 17]
+    * Architected enterprise AEM solutions on AEMaaCS, managing content lifecycle at scale[cite: 18].
+    * [cite_start]Designed OSGi-based services generating dynamic reports (Apache POI), eliminating **80% manual overhead**[cite: 19].
+    * [cite_start]Developed Authoring Guardrail-compliant workflows, accelerating content reorganization cycles by **60%**[cite: 22].
+* **Consultant AEM Developer | [cite_start]Deloitte Consulting USI** (04/2025 – 06/2025) [cite: 26, 27, 28]
+    * Enhanced Kafka-based integration between AEM and microservices for improved throughput[cite: 29].
+    * [cite_start]Implemented TTL cache invalidation at the Dispatcher/CDN layer for high-traffic content reliability[cite: 30].
+* **Analyst AEM Developer | [cite_start]Deloitte Consulting USI** (08/2022 – 04/2025) [cite: 34, 35]
+    * Built a Content Model framework for omni-channel distribution in 14+ languages using MSM[cite: 36].
+    * [cite_start]Improved page load times by **20%** through advanced caching and custom Replication Agents[cite: 40, 41].
 
 ---
 
-<div align="center">
+# 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=rahul-arakka&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /><br/>
+  <img src="https://streak-stats.demolab.com/?user=rahul-arakka&theme=vue-dark&hide_border=false" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rahul-arakka&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</p>
 
-## 📌 Content as a Service Platform
-### *Headless CMS • Multi-language Delivery • Real-time APIs*
-
-</div>
-
-```diff
-+ Developed scalable headless AEM architecture
-+ Integrated REST-based microservices
-+ Enabled content delivery across 14+ languages
-+ Improved localization efficiency by 25%
-```
+### 🔝 Top Contributed Repositories
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=rahul-arakka&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+</p>
 
 ---
 
-<div align="center">
+# 📬 Get In Touch
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahul-arakka"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rahularakka81@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/rahul-arakka"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-## 📌 Real-Time Content Synchronization Engine
-### *Replication • Dispatcher • High Traffic Optimization*
-
-</div>
-
-```diff
-+ Designed custom replication agents
-+ Implemented advanced caching strategies
-+ Improved high-traffic page load speed by 20%
-+ Enhanced cross-instance synchronization
-```
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahul-arakka&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-arakka&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-arakka&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahul-arakka&theme=tokyonight"/>
-
-</div>
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=rahul-arakka&icon=0&color=EB1000" alt="Visitor Count" />
+  </a>
+</p>
 
 ---
-
-# 🏆 Certifications & Achievements
-
-<div align="center">
-
-🥇 Adobe Certified AEM Sites Developer  
-
-🏅 Rising Star Award  
-
-🏅 Applause Award  
-
-🏅 Spot Award  
-
-</div>
-
----
-
-# 💼 Professional Experience
-
-## 🚀 LTIMindtree — Senior Software Engineer
-### *2025 - Present*
-
-- Architecting scalable enterprise AEMaaCS solutions
-- Developing asynchronous integration pipelines
-- Leading CI/CD deployments & cloud integrations
-- Implementing enterprise DAM automation systems
-
----
-
-## 🚀 Deloitte USI — Consultant / AEM Developer
-### *2022 - 2025*
-
-- Built enterprise-grade multi-language CMS solutions
-- Developed custom replication & synchronization systems
-- Improved performance using Dispatcher optimization
-- Collaborated with global cross-functional teams
-
----
-
-# 🌍 Open For
-
-<div align="center">
-
-✅ Freelance Projects  
-✅ AEM Consulting  
-✅ Full Stack Development  
-✅ Enterprise CMS Solutions  
-✅ Technical Collaborations  
-✅ Scalable Product Engineering  
-
-</div>
-
----
-
-# 🧩 Current Focus
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🚀 Building
-
-</td>
-<td align="center" width="33%">
-
-### 📚 Learning
-
-</td>
-<td align="center" width="33%">
-
-### 🤝 Open To
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-- Enterprise AEM Platforms  
-- Headless CMS Solutions  
-- Scalable MERN Applications  
-- Cloud-Native Architectures  
-
-</td>
-
-<td valign="top">
-
-- Advanced System Design  
-- AI Integrated Web Solutions  
-- Kubernetes Scaling  
-- Enterprise React Patterns  
-
-</td>
-
-<td valign="top">
-
-- Freelance Projects  
-- Enterprise Collaborations  
-- Remote Opportunities  
-- Technical Consulting  
-
-</td>
-</tr>
-</table>
-
-</div>
----
-
-# ⚡ Developer Snapshot
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 👨‍💻 Core Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-</td>
-
-<td align="center" width="50%">
-
-### 💬 Ask Me About
-
-`AEM` • `React` • `Microservices` • `MERN` • `Cloud Architecture`
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# 🏗️ Architecture Expertise
-
-<div align="center">
-
-| 🧠 Specialization | 🚀 Focus Area |
-|---|---|
-| Headless CMS | Enterprise Content Delivery |
-| Event-Driven Systems | Real-Time Synchronization |
-| Microservices | Scalable Distributed Systems |
-| Cloud-Native Apps | High Performance Architectures |
-
-</div>
-
----
-
-# 🛠️ Technology Ecosystem
-
-<div align="center">
-
-## 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css" />
-
-<br/>
-<br/>
-
-## ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
-
-<br/>
-<br/>
-
-## ☁️ DevOps & Cloud
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws" />
-
-<br/>
-<br/>
-
-## 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mongodb" />
-
-<br/>
-<br/>
-
-<img src="https://img.shields.io/badge/AEM-aaCS-red?style=for-the-badge&logo=adobe" />
-
-</div>
-
----
-
-# 🎯 Current Mission
-
-<div align="center">
-
-```diff
-+ Building scalable enterprise-grade digital solutions 🚀
-+ Creating high-performance AEM ecosystems
-+ Developing cloud-native full-stack applications
-+ Delivering business-focused technical innovation
-```
-
-</div>
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="mailto:rahularakka81@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/rahul-arakka">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/rahul-arakka">
-  <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ "Engineering scalable digital experiences with innovation, performance, and business impact."
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
-
-</div>
+<p align="center">
+  <sub>Proudly crafted for impact by Rahul Arakka • 2026</sub>
+</p>
