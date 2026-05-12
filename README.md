@@ -2,9 +2,9 @@
 
 <div align="center">
 <img 
-  src="https://cdn.worldvectorlogo.com/logos/adobe-2.svg" 
+  src="https://img.shields.io/badge/Adobe_AEM-FF0000?style=plastic&logo=adobe&logoColor=white"
   align="right"
-  height="150"
+  height="50"
   width="150"
 />
   
@@ -39,33 +39,56 @@
 
 # 💫 About Me
 
-```yaml
-Name: Rahul Arakka
+<div align="center">
 
-Role:
-  - Senior AEM Engineer
-  - Full-Stack Developer
-  - Enterprise Solution Architect
+<table>
+<tr>
+<td align="left" width="50%">
 
-Experience: 4+ Years
+### 👨‍💻 Professional Snapshot
 
-Specialization:
-  - Adobe Experience Manager (AEM)
-  - Java & Spring Boot
-  - React & MERN Stack
-  - Enterprise CMS Solutions
-  - Scalable Microservices
+- 🚀 **Senior AEM Engineer**
+- ⚡ **Full-Stack Developer**
+- 🏗️ **Enterprise Solution Architect**
+- 📈 **4+ Years of Experience**
 
-Current Focus:
-  - Headless CMS Architecture
-  - Cloud-Native Platforms
-  - Full-Stack Product Engineering
-  - Enterprise Automation
+</td>
 
-Mission:
-  "Building innovative digital solutions that help businesses scale faster."
-```
+<td align="left" width="50%">
 
+### 🎯 Core Specialization
+
+- Adobe Experience Manager (AEM)
+- Java & Spring Boot
+- React & MERN Stack
+- Enterprise CMS Solutions
+- Scalable Microservices
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔍 Current Focus Areas
+
+`Headless CMS Architecture` • `Cloud-Native Platforms` • `Enterprise Automation` • `Full-Stack Product Engineering`
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Mission
+
+> Building innovative digital solutions that help businesses scale faster 🚀
+
+</div>
 ---
 
 # ⚡ What I Bring To The Table
@@ -128,13 +151,13 @@ Mission:
 
 ## 🧩 Enterprise Tools & Platforms
 
-<img src="https://img.shields.io/badge/Adobe_AEM-FF0000?style=plastic&logo=adobe&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=plastic&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/Splunk-000000?style=plastic&logo=splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/Dynatrace-1496FF?style=plastic&logo=dynatrace&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Confluence-172BF4?style=plastic&logo=confluence&logoColor=white" />
+<img width="50" height="20" src="https://img.shields.io/badge/Adobe_AEM-FF0000?style=plastic&logo=adobe&logoColor=white" />
+<img width="50" height="20" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=plastic&logo=apachekafka&logoColor=white" />
+<img width="50" height="20" src="https://img.shields.io/badge/Splunk-000000?style=plastic&logo=splunk&logoColor=white" />
+<img width="50" height="20" src="https://img.shields.io/badge/Dynatrace-1496FF?style=plastic&logo=dynatrace&logoColor=white" />
+<img width="50" height="20" src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" />
+<img width="50" height="20" src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=jira&logoColor=white" />
+<img width="50" height="20" src="https://img.shields.io/badge/Confluence-172BF4?style=plastic&logo=confluence&logoColor=white" />
 
 </div>
 
