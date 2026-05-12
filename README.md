@@ -1,6 +1,5 @@
 <div align="center">
-<img align="right" src="https://storage.googleapis.com/prod-adobe-secure/credential%2Fffc4d509-bec9-475d-984a-c2cae5d51686" width="130"/>
-
+<img src="https://img.shields.io/badge/Adobe%20Certified%20Expert-AEM-red?style=flat-square&logo=adobe&logoColor=white" />
 # 👋 Hi, I'm Rahul Arakka
 
 ### Senior AEM Engineer • Full-Stack Developer • Enterprise Solution Architect
