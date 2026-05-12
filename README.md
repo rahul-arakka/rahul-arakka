@@ -1,5 +1,10 @@
 <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Adobe_Systems_logo_and_wordmark.svg" height="55" />
+<img 
+  src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Adobe_Systems_logo_and_wordmark.svg" 
+  height="90"
+  width="90"
+  style="background-color:white; padding:12px; border-radius:18px;"
+/>
   
   # 👋 Hi, I'm Rahul Arakka
 
