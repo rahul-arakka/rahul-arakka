@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://img.shields.io/badge/Adobe%20Certified%20Expert-AEM-red?style=flat-square&logo=adobe&logoColor=white" />
-# 👋 Hi, I'm Rahul Arakka
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Adobe_Systems_logo_and_wordmark.svg" height="55" />
+  
+  # 👋 Hi, I'm Rahul Arakka
 
 ### Senior AEM Engineer • Full-Stack Developer • Enterprise Solution Architect
 
