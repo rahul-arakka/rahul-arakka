@@ -3,7 +3,7 @@
   align="right"
   height="150"
   width="150"
-  style="border-radius:18px;"
+  style="background-color: transparent; border-radius:18px;"
 />
 
 <div align="center">
