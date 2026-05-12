@@ -254,67 +254,155 @@ Mission:
 
 # 🧩 Current Focus
 
-```javascript
-const currentFocus = {
-  building: [
-    "Enterprise AEM Platforms",
-    "Headless CMS Solutions",
-    "Scalable MERN Applications",
-    "Cloud-Native Architectures"
-  ],
+<div align="center">
 
-  learning: [
-    "Advanced System Design",
-    "AI Integrated Web Solutions",
-    "Kubernetes Scaling",
-    "Enterprise React Patterns"
-  ],
+<table>
+<tr>
+<td align="center" width="33%">
 
-  openTo: [
-    "Freelance Projects",
-    "Enterprise Collaborations",
-    "Remote Opportunities",
-    "Technical Consulting"
-  ]
-};
-```
+### 🚀 Building
+
+</td>
+<td align="center" width="33%">
+
+### 📚 Learning
+
+</td>
+<td align="center" width="33%">
+
+### 🤝 Open To
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+- Enterprise AEM Platforms  
+- Headless CMS Solutions  
+- Scalable MERN Applications  
+- Cloud-Native Architectures  
+
+</td>
+
+<td valign="top">
+
+- Advanced System Design  
+- AI Integrated Web Solutions  
+- Kubernetes Scaling  
+- Enterprise React Patterns  
+
+</td>
+
+<td valign="top">
+
+- Freelance Projects  
+- Enterprise Collaborations  
+- Remote Opportunities  
+- Technical Consulting  
+
+</td>
+</tr>
+</table>
+
+</div>
+---
+
+# ⚡ Developer Snapshot
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 👨‍💻 Core Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+</td>
+
+<td align="center" width="50%">
+
+### 💬 Ask Me About
+
+`AEM` • `React` • `Microservices` • `MERN` • `Cloud Architecture`
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-# ⚡ Fun Facts
+# 🏗️ Architecture Expertise
 
-```javascript
-const rahul = {
-  code: ["Java", "JavaScript", "TypeScript"],
+<div align="center">
 
-  askMeAbout: [
-    "AEM",
-    "React",
-    "Microservices",
-    "MERN",
-    "Cloud Architecture"
-  ],
+| 🧠 Specialization | 🚀 Focus Area |
+|---|---|
+| Headless CMS | Enterprise Content Delivery |
+| Event-Driven Systems | Real-Time Synchronization |
+| Microservices | Scalable Distributed Systems |
+| Cloud-Native Apps | High Performance Architectures |
 
-  architecture: [
-    "Headless CMS",
-    "Event-Driven Systems",
-    "Microservices",
-    "Cloud-Native Apps"
-  ],
+</div>
 
-  technologies: {
-    frontend: ["React", "JS", "HTML", "CSS"],
-    backend: ["Java", "Spring Boot", "Node.js"],
-    devops: ["Docker", "Kubernetes", "Jenkins"],
-    cloud: ["AWS", "AEMaaCS"],
-    databases: ["MongoDB"]
-  },
+---
 
-  currentGoal:
-    "Building scalable enterprise-grade digital solutions 🚀"
-};
+# 🛠️ Technology Ecosystem
+
+<div align="center">
+
+## 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css" />
+
+<br/>
+<br/>
+
+## ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
+
+<br/>
+<br/>
+
+## ☁️ DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws" />
+
+<br/>
+<br/>
+
+## 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mongodb" />
+
+<br/>
+<br/>
+
+<img src="https://img.shields.io/badge/AEM-aaCS-red?style=for-the-badge&logo=adobe" />
+
+</div>
+
+---
+
+# 🎯 Current Mission
+
+<div align="center">
+
+```diff
++ Building scalable enterprise-grade digital solutions 🚀
++ Creating high-performance AEM ecosystems
++ Developing cloud-native full-stack applications
++ Delivering business-focused technical innovation
 ```
 
+</div>
 ---
 
 # 🤝 Let's Connect
