@@ -39,9 +39,10 @@
 
 <div align="center">
 
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr border="0">
+
+<td valign="top" width="48%" border="0">
 
 ### 👨‍💻 Professional Snapshot
 
@@ -52,13 +53,13 @@
 
 </td>
 
-<td width="1%" align="center">
+<td width="4%" align="center" border="0">
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="2" height="220"/>
 
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="48%" border="0">
 
 ### 🎯 Core Competency
 
@@ -69,6 +70,7 @@
 - Scalable Microservices
 
 </td>
+
 </tr>
 </table>
 
@@ -87,7 +89,7 @@
 
 ### 💡 Mission
 
-> Building innovative digital solutions that help businesses scale faster 🚀
+`Building innovative digital solutions that help businesses scale faster 🚀`
 
 </div>
 
