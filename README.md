@@ -35,15 +35,13 @@
 
 </div>
 
----
-
 # 💫 About Me
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
-<td align="left" width="50%">
+<td valign="top" width="50%">
 
 ### 👨‍💻 Professional Snapshot
 
@@ -54,9 +52,15 @@
 
 </td>
 
-<td align="left" width="50%">
+<td width="1%" align="center">
 
-### 🎯 Core Specialization
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="2" height="220"/>
+
+</td>
+
+<td valign="top" width="50%">
+
+### 🎯 Core Competency
 
 - Adobe Experience Manager (AEM)
 - Java & Spring Boot
@@ -70,7 +74,6 @@
 
 </div>
 
----
 
 <div align="center">
 
@@ -80,8 +83,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 ### 💡 Mission
@@ -89,7 +90,6 @@
 > Building innovative digital solutions that help businesses scale faster 🚀
 
 </div>
----
 
 # ⚡ What I Bring To The Table
 
@@ -151,13 +151,13 @@
 
 ## 🧩 Enterprise Tools & Platforms
 
-<img width="120" height="40" src="https://img.shields.io/badge/Adobe_AEM-FF0000?style=plastic&logo=adobe&logoColor=white" />
-<img width="120" height="40" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=plastic&logo=apachekafka&logoColor=white" />
+<img width="140" height="40" src="https://img.shields.io/badge/Adobe_AEM-FF0000?style=plastic&logo=adobe&logoColor=white" />
+<img width="140" height="40" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=plastic&logo=apachekafka&logoColor=white" />
 <img width="120" height="40" src="https://img.shields.io/badge/Splunk-000000?style=plastic&logo=splunk&logoColor=white" />
 <img width="120" height="40" src="https://img.shields.io/badge/Dynatrace-1496FF?style=plastic&logo=dynatrace&logoColor=white" />
 <img width="120" height="40" src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" />
 <img width="120" height="40" src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=jira&logoColor=white" />
-<img width="120" height="40" src="https://img.shields.io/badge/Confluence-172BF4?style=plastic&logo=confluence&logoColor=white" />
+<img width="140" height="40" src="https://img.shields.io/badge/Confluence-172BF4?style=plastic&logo=confluence&logoColor=white" />
 
 </div>
 
