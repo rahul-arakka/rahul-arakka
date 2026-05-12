@@ -2,8 +2,7 @@
 
 <div align="center">
   
-  # 👋 Hi, I'm Rahul Arakka      
-  <img 
+  # 👋 Hi, I'm Rahul Arakka      <img 
   src="https://cdn.worldvectorlogo.com/logos/adobe-2.svg" 
   align="right"
   height="150"
