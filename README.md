@@ -10,9 +10,9 @@
   
   # 👋 Hi, I'm Rahul Arakka      
   
-### Senior AEM Engineer • Full-Stack Developer • Enterprise Solution Specialist
+### Senior AEM Engineer • Full-Stack Developer • Enterprise Solution Specialist • CMS
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Adobe+Experience+Manager+(AEM)+Specialist;Java+%7C+React+%7C+MERN+Stack+Developer;Building+Scalable+Enterprise+Solutions;Passionate+about+Innovation+%26+Business+Growth;Open+for+Freelance+Projects+%26+Collaborations" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Adobe+Experience+Manager+(AEM)+Specialist;Java+%7C+Microservices+%7C+React+%7C+MERN+Stack+Developer;Building+Scalable+Enterprise+Solutions;Passionate+about+Innovation+%26+Business+Growth;Open+for+Freelance+Projects+%26+Collaborations" alt="Typing SVG" />
 
 <br/>
 <br/>
