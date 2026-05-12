@@ -1,5 +1,5 @@
 <img 
-  src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Adobe_Systems_logo_and_wordmark.svg" 
+  src="https://cdn.worldvectorlogo.com/logos/adobe-2.svg" 
   align="right"
   height="150"
   width="150"
