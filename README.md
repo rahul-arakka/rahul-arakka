@@ -4,7 +4,7 @@
 <img 
   src="https://img.shields.io/badge/Adobe_AEM-FF0000?style=plastic&logo=adobe&logoColor=white"
   align="right"
-  height="80"
+  height="67"
   width="150"
 />
   
@@ -153,13 +153,13 @@
 
 ## 🧩 Enterprise Tools & Platforms
 
-<img width="140" height="40" src="https://img.shields.io/badge/Adobe_AEM-FF0000?style=plastic&logo=adobe&logoColor=white" />
-<img width="140" height="40" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=plastic&logo=apachekafka&logoColor=white" />
-<img width="120" height="40" src="https://img.shields.io/badge/Splunk-000000?style=plastic&logo=splunk&logoColor=white" />
-<img width="120" height="40" src="https://img.shields.io/badge/Dynatrace-1496FF?style=plastic&logo=dynatrace&logoColor=white" />
-<img width="120" height="40" src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" />
-<img width="120" height="40" src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=jira&logoColor=white" />
-<img width="140" height="40" src="https://img.shields.io/badge/Confluence-172BF4?style=plastic&logo=confluence&logoColor=white" />
+<img width="140" height="35" src="https://img.shields.io/badge/Adobe_AEM-FF0000?style=plastic&logo=adobe&logoColor=white" />
+<img width="140" height="35" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=plastic&logo=apachekafka&logoColor=white" />
+<img width="120" height="35" src="https://img.shields.io/badge/Splunk-000000?style=plastic&logo=splunk&logoColor=white" />
+<img width="120" height="35" src="https://img.shields.io/badge/Dynatrace-1496FF?style=plastic&logo=dynatrace&logoColor=white" />
+<img width="120" height="35" src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" />
+<img width="120" height="35" src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=jira&logoColor=white" />
+<img width="140" height="35" src="https://img.shields.io/badge/Confluence-172BF4?style=plastic&logo=confluence&logoColor=white" />
 
 </div>
 
