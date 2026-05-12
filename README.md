@@ -151,8 +151,8 @@
 
 ## 🧩 Enterprise Tools & Platforms
 
-<img width="50" height="20" src="https://img.shields.io/badge/Adobe_AEM-FF0000?style=plastic&logo=adobe&logoColor=white" />
-<img width="50" height="20" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=plastic&logo=apachekafka&logoColor=white" />
+<img width="100" height="50" src="https://img.shields.io/badge/Adobe_AEM-FF0000?style=plastic&logo=adobe&logoColor=white" />
+<img width="100" height="50" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=plastic&logo=apachekafka&logoColor=white" />
 <img width="50" height="20" src="https://img.shields.io/badge/Splunk-000000?style=plastic&logo=splunk&logoColor=white" />
 <img width="50" height="20" src="https://img.shields.io/badge/Dynatrace-1496FF?style=plastic&logo=dynatrace&logoColor=white" />
 <img width="50" height="20" src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" />
