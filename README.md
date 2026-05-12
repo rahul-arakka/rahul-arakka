@@ -1,13 +1,14 @@
 
 
 <div align="center">
-  
-  # 👋 Hi, I'm Rahul Arakka      <img 
+<img 
   src="https://cdn.worldvectorlogo.com/logos/adobe-2.svg" 
   align="right"
   height="150"
   width="150"
 />
+  
+  # 👋 Hi, I'm Rahul Arakka      
   
 ### Senior AEM Engineer • Full-Stack Developer • Enterprise Solution Architect
 
