@@ -1,10 +1,12 @@
+<div style="background-color:#ffffff; padding:18px; border-radius:24px; display:inline-block; box-shadow:0 4px 18px rgba(0,0,0,0.15);">
+
 <img 
-  src="https://cdn.worldvectorlogo.com/logos/adobe-2.svg" 
-  align="right"
-  height="150"
-  width="150"
-  style="background-color: transparent; border-radius:18px;"
+  src="https://cdn.worldvectorlogo.com/logos/adobe-2.svg"
+  height="90"
+  width="90"
 />
+
+</div>
 
 <div align="center">
   
