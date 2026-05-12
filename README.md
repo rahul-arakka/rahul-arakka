@@ -1,4 +1,5 @@
 <div align="center">
+<img align="right" src="https://img.shields.io/badge/Adobe_Certified_Expert-AEM-red?style=plastic&logo=adobe&logoColor=white" height="42"/>
 
 # 👋 Hi, I'm Rahul Arakka
 
